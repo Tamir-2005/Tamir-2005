@@ -3,7 +3,7 @@
 
 # Hi there, I'm Tamir 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/tamir-n-8b3187343)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat&logoColor=white)](mailto:lovelytamir2005@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Tamir-2005&color=blueviolet)
 
@@ -31,13 +31,16 @@
 - **[mini-proj](https://github.com/Tamir-2005/mini-proj)**  
   Power BI dashboards and data analysis mini projects.
 
+- **[IPL Score Predictor](https://github.com/Tamir-2005/-T20-Cricket-Final-Score-/tree/main/projects/IPL-Score-Predictor-master)**  
+  Cricket match score prediction using data analytics and machine learning.
+
 ---
 
 ## 🛠️ Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongaDBr-F37626?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F37626?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![HDFS](https://img.shields.io/badge/HDFS-FFCA28?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
@@ -48,7 +51,6 @@
 - **Visualization:** Power BI
 
 ---
-
 
 ## 🌱 About Me
 
@@ -67,6 +69,7 @@
 ## 📫 Let's Connect!
 
 - [GitHub: Tamir-2005](https://github.com/Tamir-2005)
+- [LinkedIn: tamir-n-8b3187343](https://www.linkedin.com/in/tamir-n-8b3187343)
 - [Gmail: lovelytamir2005@gmail.com](mailto:lovelytamir2005@gmail.com)
 
 ---
