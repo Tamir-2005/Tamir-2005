@@ -76,7 +76,7 @@
 
 - [GitHub: Tamir-2005](https://github.com/Tamir-2005)  
 - [LinkedIn: tamir-n-8b3187343](https://www.linkedin.com/in/tamir-n-8b3187343)  
-- [Gmail: lovelytamir2005@gmail.com](mailto:lovelytamir2005@gmail.com)
+- [Gmail: tamir032005@gmail.com](mailto:tamir032005@gmail.com)
 
 ---
 
